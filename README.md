@@ -4,7 +4,8 @@
 </h1>
 
 
-<img align="center" src="preview/title.png">
+<img align="center" src="preview/task.png">
+<img align="center" src="preview/home.png">
 
 <br>
 
