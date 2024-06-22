@@ -6,7 +6,8 @@
 
 <img align="center" src="preview/task.png">
 <img align="center" src="preview/home.png">
-
+![alt text](task.png)
+![alt text](home.png)
 <br>
 
 # 📝 ActionList   
