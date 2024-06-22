@@ -4,10 +4,10 @@
 </h1>
 
 
-<img align="center" src="preview/task.png">
-<img align="center" src="preview/home.png">
-![alt text](task.png)
-![alt text](home.png)
+![Task Preview](preview/task.png)
+
+![Home Preview](preview/home.png)
+
 <br>
 
 # 📝 ActionList   
