@@ -1,13 +1,14 @@
+// Home.js
 "use client"
 import { useState } from 'react'
 import axios from 'axios'
-import './app.css'  // Assuming you have a CSS file for styling
+import './app.css'  // Note the capitalized 'A' in 'App.css'
 
 const Home = () => {
   const [username, setUsername] = useState('')
   const [message, setMessage] = useState('')
 
-  const handleSubmit = async (e: { preventDefault: () => void }) => {
+  const handleSubmit = async (e) => {
     e.preventDefault()
 
     try {
@@ -25,7 +26,7 @@ const Home = () => {
   return (
     <div className="container">
       <header className="header">
-        <h1>Recipe 🧑‍🍳</h1>
+        <h1>ActionList</h1>
       </header>
       <main className="main-content">
         <h2>Check User Permissions</h2>
